@@ -1,5 +1,6 @@
-# Project Name
-> Credit Risk Analytics
+# Credit Risk Analytics
+> This project involves an in-depth analysis of a loan dataset from a consumer finance company. It aim to identify patterns and factors that indicate whether a loan applicant is likely to default on the loan, enabling the lending company to make informed lending decisions and minimize credit loss.
+
 
 
 ## Table of Contents
@@ -11,12 +12,20 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- This project involves the analysis of credit risk in a consumer finance company specializing in lending various types of loans to urban customers.
-- What is the background of your project?
-The project aims to identify patterns and factors that indicate whether a loan applicant is likely to default on their loan, helping the company make informed lending decisions
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-The dataset used for this analysis is "loan.csv," containing loan application data from 2007 to 2011.
+- **Project Description**: This project involves analyzing loan data from a consumer finance company to mitigate credit risk. The objective is to leverage exploratory data analysis (EDA) and machine learning to identify patterns and indicators of loan default, enabling the company to make informed lending decisions.
+
+- **Business Context**: The lending company specializes in providing various loans to urban customers. It faces the challenge of assessing loan applicants' creditworthiness to minimize credit loss. This involves managing two key risks:
+   1. **Risk of Non-Approval**: Rejecting loans to creditworthy applicants leads to missed business opportunities.
+   2. **Risk of Default**: Approving loans to applicants likely to default results in financial losses.
+   
+   By using data analytics, the company aims to predict loan defaults, optimize lending decisions, and mitigate credit risk effectively.
+
+- **Key Business Problems Addressed**:
+   1. **Identifying Loan Default Risk**: Develop a predictive model to identify applicants at risk of default.
+   2. **Optimizing Lending Decisions**: Make informed decisions about loan approvals, rejections, or modifications based on applicant profiles and historical loan data.
+
+- **Dataset**: The dataset used for analysis is "loan.csv," containing loan application data from 2007 to 2011.
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -30,9 +39,9 @@ The dataset used for this analysis is "loan.csv," containing loan application da
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- pandas - version 1.5.3
+- matplotlib - version 3.7.0
+- seaborn - version 0.12.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
@@ -44,7 +53,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@shahprashant030] - feel free to contact me!
 
 
 <!-- Optional -->
