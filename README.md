@@ -1,9 +1,9 @@
 # Project Name
-> Outline a brief description of your project.
+> Credit Risk Analytics
 
 
 ## Table of Contents
-* [General Info](#general-information)
+* [General Information](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
@@ -11,10 +11,12 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
+- This project involves the analysis of credit risk in a consumer finance company specializing in lending various types of loans to urban customers.
 - What is the background of your project?
+The project aims to identify patterns and factors that indicate whether a loan applicant is likely to default on their loan, helping the company make informed lending decisions
 - What is the business probem that your project is trying to solve?
 - What is the dataset that is being used?
+The dataset used for this analysis is "loan.csv," containing loan application data from 2007 to 2011.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
